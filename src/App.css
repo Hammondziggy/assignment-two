@@ -1,0 +1,9 @@
+main {
+  text-align: center;
+  vertical-align: center;
+  line-height: 100vh
+}
+.app {
+  min-height: 100vh;
+  margin: 0 auto;
+}
